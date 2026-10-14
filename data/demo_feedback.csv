@@ -1,0 +1,301 @@
+feedback_id,feedback_text,sentiment,category,created_at
+DEMO-0001,The electronics lab is located on the ground floor of the workshop block.,Neutral,Laboratory,2026-04-04
+DEMO-0002,The broadband in the computer lab is down again.,Negative,Internet and Wi-Fi,2026-03-17
+DEMO-0003,The new assistant professor teaches with great enthusiasm.,Positive,Faculty,2026-03-30
+DEMO-0004,Classrooms are overcrowded and many students have to stand.,Negative,Infrastructure,2026-03-08
+DEMO-0005,The teachers go out of their way to support weak students.,Positive,Faculty,2026-01-24
+DEMO-0006,The college bus leaves from the main gate at 4:30 PM.,Neutral,Transport,2026-01-29
+DEMO-0007,Students can pay at the canteen using cash or UPI.,Neutral,Canteen,2026-02-11
+DEMO-0008,The office staff processed my certificate request very quickly.,Positive,Administration,2026-02-01
+DEMO-0009,The department conducts a bridge course in the first week of the semester.,Neutral,Academics,2026-01-12
+DEMO-0010,The IT department is located on the second floor of the main block.,Neutral,Internet and Wi-Fi,2026-03-20
+DEMO-0011,The timetable is badly planned with long gaps between classes.,Negative,Academics,2026-03-15
+DEMO-0012,Event announcements are confusing and keep changing.,Negative,Other,2026-01-12
+DEMO-0013,The microprocessor lab sessions are held on Wednesday mornings.,Neutral,Laboratory,2026-02-14
+DEMO-0014,The Wi-Fi password is changed at the beginning of every semester.,Neutral,Internet and Wi-Fi,2026-01-12
+DEMO-0015,I found an insect in my meal at the canteen.,Negative,Canteen,2026-01-11
+DEMO-0016,Students are not informed about placement opportunities in time.,Negative,Other,2026-03-20
+DEMO-0017,The placement training sessions were a waste of time.,Negative,Other,2026-03-07
+DEMO-0018,Faculty members are punctual and well prepared for every class.,Positive,Faculty,2026-03-10
+DEMO-0019,The e-resources are easy to access from the hostel.,Positive,Library,2026-03-13
+DEMO-0020,The library closes too early and is shut during exam weeks.,Negative,Library,2026-01-25
+DEMO-0021,The bus staff are polite and helpful.,Positive,Transport,2026-01-12
+DEMO-0022,I really enjoyed the new elective subjects offered this semester.,Positive,Academics,2026-03-11
+DEMO-0023,Each student is allowed to connect two devices to the campus network.,Neutral,Internet and Wi-Fi,2026-01-15
+DEMO-0024,Bus passes must be renewed at the start of each semester.,Neutral,Transport,2026-01-28
+DEMO-0025,Getting a simple certificate takes weeks and several visits to the office.,Negative,Administration,2026-01-13
+DEMO-0026,The scholarship application form is available on the college website.,Neutral,Administration,2026-03-22
+DEMO-0027,Pick-up and drop timings suit our class schedule well.,Positive,Transport,2026-01-13
+DEMO-0028,The tea is watery and the snacks are stale.,Negative,Canteen,2026-04-01
+DEMO-0029,The lift has been out of order for two weeks.,Negative,Infrastructure,2026-02-04
+DEMO-0030,The revision classes before exams were very helpful.,Positive,Academics,2026-02-25
+DEMO-0031,Students can join clubs through the activities coordinator.,Neutral,Other,2026-01-20
+DEMO-0032,I appreciate the helpful attitude of the admission office.,Positive,Administration,2026-03-18
+DEMO-0033,The canteen is open from 8 AM to 5 PM.,Neutral,Canteen,2026-02-05
+DEMO-0034,Our mentor gave excellent guidance on my project.,Positive,Faculty,2026-03-20
+DEMO-0035,Internet speed in the hostel is painfully slow in the evenings.,Negative,Internet and Wi-Fi,2026-03-22
+DEMO-0036,I like the variety of healthy options on the canteen menu.,Positive,Canteen,2026-01-10
+DEMO-0037,There are six bus routes covering the city and nearby towns.,Neutral,Transport,2026-03-25
+DEMO-0038,The lab timetable for the next week has been updated on the notice board.,Neutral,Laboratory,2026-01-15
+DEMO-0039,The oscilloscope in the electronics lab has been broken for a month.,Negative,Laboratory,2026-02-27
+DEMO-0040,Two new faculty members joined the department this year.,Neutral,Faculty,2026-03-30
+DEMO-0041,The transport office is next to the security cabin.,Neutral,Transport,2026-03-20
+DEMO-0042,Bus fares are affordable and the seats are comfortable.,Positive,Transport,2026-03-18
+DEMO-0043,The NSS volunteer programme was a rewarding experience.,Positive,Other,2026-03-12
+DEMO-0044,Water supply will be interrupted on Sunday for maintenance work.,Neutral,Infrastructure,2026-02-14
+DEMO-0045,"The return bus leaves too early, before the last class ends.",Negative,Transport,2026-02-07
+DEMO-0046,The laboratory is open until 5 PM on weekdays.,Neutral,Laboratory,2026-01-31
+DEMO-0047,Buses are overcrowded and students have to stand for an hour.,Negative,Transport,2026-03-31
+DEMO-0048,Photocopy and printing facilities in the library are convenient.,Positive,Library,2026-02-14
+DEMO-0049,The canteen tables are sticky and the floor is dirty.,Negative,Canteen,2026-02-04
+DEMO-0050,Our mentor never responds to messages or meeting requests.,Negative,Faculty,2026-02-07
+DEMO-0051,Project-based learning in this course made the subject interesting.,Positive,Academics,2026-02-24
+DEMO-0052,Buses are dirty and smell terrible.,Negative,Transport,2026-01-21
+DEMO-0053,Course materials are missing for most subjects and we have to depend on friends.,Negative,Academics,2026-03-31
+DEMO-0054,I cannot log in to the campus network and the IT desk does not respond.,Negative,Internet and Wi-Fi,2026-03-28
+DEMO-0055,Chemicals in the lab are not stored safely and the labels are missing.,Negative,Laboratory,2026-02-12
+DEMO-0056,The college council meets once every month.,Neutral,Administration,2026-03-04
+DEMO-0057,The digital library gives access to a wide range of journals.,Positive,Library,2026-02-14
+DEMO-0058,The lab exam will be conducted in two batches.,Neutral,Laboratory,2026-01-14
+DEMO-0059,The alumni association meets twice a year.,Neutral,Other,2026-01-06
+DEMO-0060,I appreciate that the canteen now offers vegetarian and non-vegetarian options.,Positive,Canteen,2026-03-04
+DEMO-0061,There is no Wi-Fi signal at all in the classrooms on the third floor.,Negative,Internet and Wi-Fi,2026-03-25
+DEMO-0062,The transport office arranged an extra bus for the exam days.,Positive,Transport,2026-03-18
+DEMO-0063,The staff room is on the second floor of the main block.,Neutral,Faculty,2026-01-17
+DEMO-0064,Students can request a change of bus stop by filling out a form.,Neutral,Transport,2026-01-14
+DEMO-0065,The campus internet is provided by two different service providers.,Neutral,Internet and Wi-Fi,2026-03-14
+DEMO-0066,Wi-Fi in the computer lab is stable even when many students are online.,Positive,Internet and Wi-Fi,2026-02-01
+DEMO-0067,Network speed drops to almost nothing when many students connect.,Negative,Internet and Wi-Fi,2026-03-10
+DEMO-0068,Students can collect their ID cards from the front office.,Neutral,Administration,2026-02-07
+DEMO-0069,"Drinking water stations are available on every floor, which is very convenient.",Positive,Infrastructure,2026-01-21
+DEMO-0070,Canteen staff are careless and charge more than the displayed prices.,Negative,Canteen,2026-02-18
+DEMO-0071,Office hours for staff are from two to four in the afternoon.,Neutral,Faculty,2026-01-13
+DEMO-0072,The last date for fee payment is the fifteenth of this month.,Neutral,Administration,2026-02-05
+DEMO-0073,The annual cultural fest was wonderfully organised.,Positive,Other,2026-02-21
+DEMO-0074,Thank you for arranging the career guidance session.,Positive,Other,2026-02-10
+DEMO-0075,"Wi-Fi coverage includes the library, the hostel and the seminar halls.",Neutral,Internet and Wi-Fi,2026-01-25
+DEMO-0076,The mini project gave us useful hands-on experience.,Positive,Academics,2026-03-02
+DEMO-0077,A circular about the holiday schedule was issued yesterday.,Neutral,Administration,2026-03-15
+DEMO-0078,Lab assistants are helpful and always available.,Positive,Laboratory,2026-04-05
+DEMO-0079,The alumni meet was a great opportunity to network.,Positive,Other,2026-02-12
+DEMO-0080,Borrowing and returning books is quick with the new scanner system.,Positive,Library,2026-03-24
+DEMO-0081,The bus fare was increased without any notice.,Negative,Transport,2026-03-29
+DEMO-0082,The reading room is quiet and comfortable for studying.,Positive,Library,2026-03-13
+DEMO-0083,The library has plenty of seats and charging points.,Positive,Library,2026-01-06
+DEMO-0084,Students can register a device for Wi-Fi at the IT help desk.,Neutral,Internet and Wi-Fi,2026-03-31
+DEMO-0085,Nobody in the administration could explain the extra charges on my fee receipt.,Negative,Administration,2026-03-16
+DEMO-0086,The Wi-Fi connection on campus is fast and reliable.,Positive,Internet and Wi-Fi,2026-02-12
+DEMO-0087,My professor is always approachable and answers every doubt patiently.,Positive,Faculty,2026-03-30
+DEMO-0088,The counselling room is open on Tuesdays and Thursdays.,Neutral,Other,2026-01-18
+DEMO-0089,Too many events are held during the exam period.,Negative,Other,2026-01-22
+DEMO-0090,The new parking area is well organised and safe.,Positive,Infrastructure,2026-02-07
+DEMO-0091,The book return process is slow and the catalogue is not updated.,Negative,Library,2026-01-19
+DEMO-0092,The bus skipped our stop again and the transport office ignored our complaint.,Negative,Transport,2026-01-18
+DEMO-0093,After eating at the canteen several students felt sick.,Negative,Canteen,2026-03-16
+DEMO-0094,The benches are broken and uncomfortable for long lectures.,Negative,Infrastructure,2026-01-24
+DEMO-0095,Some teachers are rude and refuse to clear our doubts.,Negative,Faculty,2026-02-08
+DEMO-0096,Documents must be submitted in duplicate to the office.,Neutral,Administration,2026-02-10
+DEMO-0097,Lab instructors guide us patiently through each experiment.,Positive,Laboratory,2026-03-23
+DEMO-0098,The new bus route covers my area very conveniently.,Positive,Transport,2026-01-31
+DEMO-0099,There is not enough parking space and vehicles block the road.,Negative,Infrastructure,2026-02-17
+DEMO-0100,Students can borrow up to three books for fourteen days.,Neutral,Library,2026-01-31
+DEMO-0101,The physics lab sessions helped me understand the theory better.,Positive,Laboratory,2026-04-02
+DEMO-0102,"The campus network covers the whole building, even the corridors.",Positive,Internet and Wi-Fi,2026-03-27
+DEMO-0103,The new Wi-Fi routers in the hostel work really well.,Positive,Internet and Wi-Fi,2026-02-07
+DEMO-0104,A new contractor will manage the canteen from next month.,Neutral,Canteen,2026-03-10
+DEMO-0105,Construction work on the east wing will continue until December.,Neutral,Infrastructure,2026-03-08
+DEMO-0106,The office is closed during lunch and the queue is endless afterwards.,Negative,Administration,2026-02-06
+DEMO-0107,Lectures are engaging and the staff use real-life examples.,Positive,Faculty,2026-01-11
+DEMO-0108,Too many assignments were given with deadlines that were unrealistic.,Negative,Academics,2026-01-16
+DEMO-0109,The seminar hall can accommodate about two hundred students.,Neutral,Infrastructure,2026-03-27
+DEMO-0110,"The new classrooms are spacious, bright and well ventilated.",Positive,Infrastructure,2026-02-28
+DEMO-0111,The lights in the corridor keep flickering and some are completely dead.,Negative,Infrastructure,2026-02-09
+DEMO-0112,The online portal makes it easy to access notices and results.,Positive,Administration,2026-01-10
+DEMO-0113,A new Wi-Fi policy will be shared through email.,Neutral,Internet and Wi-Fi,2026-01-05
+DEMO-0114,The canteen menu changes every week.,Neutral,Canteen,2026-02-16
+DEMO-0115,I like that the library stays open late during exam weeks.,Positive,Library,2026-01-21
+DEMO-0116,The annual day celebration will be held in the auditorium.,Neutral,Other,2026-03-27
+DEMO-0117,The quality of the food has dropped badly and portions are tiny.,Negative,Canteen,2026-02-07
+DEMO-0118,Students need to wear lab coats during chemistry practicals.,Neutral,Laboratory,2026-01-25
+DEMO-0119,The upgraded bandwidth made online submissions hassle free.,Positive,Internet and Wi-Fi,2026-03-02
+DEMO-0120,The college bus is always late and we miss the first class.,Negative,Transport,2026-03-16
+DEMO-0121,The scholarship process was smooth and clearly explained.,Positive,Administration,2026-04-05
+DEMO-0122,The semester examinations start on the 12th of next month.,Neutral,Academics,2026-02-28
+DEMO-0123,The administration was supportive and resolved my fee issue on the same day.,Positive,Administration,2026-03-17
+DEMO-0124,The campus has three entry gates and a visitor parking area.,Neutral,Infrastructure,2026-01-06
+DEMO-0125,The placement drive registration closes next Friday.,Neutral,Other,2026-01-19
+DEMO-0126,The faculty explained the concepts very clearly.,Positive,Faculty,2026-01-14
+DEMO-0127,Great balance between theory and practical coursework this term.,Positive,Academics,2026-04-03
+DEMO-0128,The campus is clean and beautifully maintained.,Positive,Infrastructure,2026-01-24
+DEMO-0129,The main building has four floors and two lifts.,Neutral,Infrastructure,2026-03-15
+DEMO-0130,Books are in poor condition with torn pages and missing chapters.,Negative,Library,2026-01-09
+DEMO-0131,The network will be down for maintenance on Sunday morning.,Neutral,Internet and Wi-Fi,2026-02-21
+DEMO-0132,Assignments this semester improved my understanding of the topics.,Positive,Academics,2026-03-20
+DEMO-0133,The security at the gate is careless and strangers enter the campus freely.,Negative,Other,2026-03-16
+DEMO-0134,There is water leaking from the roof whenever it rains.,Negative,Infrastructure,2026-01-23
+DEMO-0135,The bus fare is collected monthly through the fee portal.,Neutral,Transport,2026-03-01
+DEMO-0136,The tracking app helps me know exactly when the bus will arrive.,Positive,Transport,2026-01-21
+DEMO-0137,I feel safe travelling in the college bus.,Positive,Transport,2026-01-10
+DEMO-0138,Lab equipment is always in good working condition.,Positive,Laboratory,2026-02-13
+DEMO-0139,The library does not have the latest edition of the prescribed textbooks.,Negative,Library,2026-02-20
+DEMO-0140,The lecturer reads from slides and never explains anything properly.,Negative,Faculty,2026-01-10
+DEMO-0141,A new bus timetable will be displayed on the notice board.,Neutral,Transport,2026-02-19
+DEMO-0142,The auditorium is booked for the annual day rehearsals this week.,Neutral,Infrastructure,2026-01-31
+DEMO-0143,Results were delayed for weeks and the revaluation process is confusing.,Negative,Academics,2026-04-02
+DEMO-0144,Fee payment through the online portal worked without any problem.,Positive,Administration,2026-02-05
+DEMO-0145,Faculty members are required to submit the course plan before the semester begins.,Neutral,Faculty,2026-03-31
+DEMO-0146,The principal's office listened to our concerns and acted on them.,Positive,Administration,2026-01-18
+DEMO-0147,Buses are clean and well maintained.,Positive,Transport,2026-02-19
+DEMO-0148,The course content was well structured and easy to follow.,Positive,Academics,2026-03-17
+DEMO-0149,Downloading even a small file takes ages on the campus network.,Negative,Internet and Wi-Fi,2026-02-26
+DEMO-0150,The library will be closed on public holidays.,Neutral,Library,2026-03-25
+DEMO-0151,The NSS unit conducts a cleaning drive every semester.,Neutral,Other,2026-01-24
+DEMO-0152,Classrooms on the first floor are allotted to the second year.,Neutral,Infrastructure,2026-02-04
+DEMO-0153,The Wi-Fi keeps disconnecting every few minutes.,Negative,Internet and Wi-Fi,2026-01-25
+DEMO-0154,The staircase railing is loose and it feels unsafe.,Negative,Infrastructure,2026-01-27
+DEMO-0155,The canteen is unhygienic and flies are everywhere.,Negative,Canteen,2026-02-26
+DEMO-0156,The new snack counter is a great addition to the campus.,Positive,Canteen,2026-01-08
+DEMO-0157,The workload is overwhelming and the schedule leaves no time to revise.,Negative,Academics,2026-01-27
+DEMO-0158,The internal assessments were fair and helped me prepare for the final exam.,Positive,Academics,2026-02-16
+DEMO-0159,My scholarship application has been pending for months with no response.,Negative,Administration,2026-02-26
+DEMO-0160,The renovated hostel rooms are comfortable and well kept.,Positive,Infrastructure,2026-03-31
+DEMO-0161,The driver drives rashly and it is unsafe for passengers.,Negative,Transport,2026-02-05
+DEMO-0162,The sports meet begins on Monday.,Neutral,Other,2026-02-08
+DEMO-0163,New journals will be added to the periodicals section next month.,Neutral,Library,2026-01-25
+DEMO-0164,The counselling service is very supportive for students.,Positive,Other,2026-04-04
+DEMO-0165,The new simulation software in the lab is very useful.,Positive,Laboratory,2026-01-18
+DEMO-0166,"The food in the canteen is cold, tasteless and overpriced.",Negative,Canteen,2026-02-22
+DEMO-0167,Librarians are friendly and help us find the right books.,Positive,Library,2026-01-09
+DEMO-0168,Students must book computer lab slots through the department office.,Neutral,Laboratory,2026-03-06
+DEMO-0169,The shuttle runs every thirty minutes between the hostel and the campus.,Neutral,Transport,2026-02-02
+DEMO-0170,The library is open from 8 AM to 6 PM on weekdays.,Neutral,Library,2026-01-30
+DEMO-0171,The teacher made a difficult subject easy to understand.,Positive,Faculty,2026-03-04
+DEMO-0172,There is too much theory and almost no practical exposure in this course.,Negative,Academics,2026-02-18
+DEMO-0173,The college does not respond to harassment complaints.,Negative,Other,2026-02-13
+DEMO-0174,Internal marks were not explained and nobody told us how they were calculated.,Negative,Academics,2026-02-03
+DEMO-0175,Bonafide certificates are issued promptly these days.,Positive,Administration,2026-02-02
+DEMO-0176,The administrative office is open from nine to four on working days.,Neutral,Administration,2026-01-08
+DEMO-0177,The juice stall serves really fresh drinks.,Positive,Canteen,2026-03-30
+DEMO-0178,Internet speed in the library is excellent for downloading papers.,Positive,Internet and Wi-Fi,2026-01-29
+DEMO-0179,The chemistry laboratory is well equipped with modern apparatus.,Positive,Laboratory,2026-02-25
+DEMO-0180,Long queues at the canteen mean we miss the next class.,Negative,Canteen,2026-02-16
+DEMO-0181,Canteen prices are reasonable for students.,Positive,Canteen,2026-02-09
+DEMO-0182,The laboratory inventory check is scheduled for Saturday.,Neutral,Laboratory,2026-01-13
+DEMO-0183,Our ID cards have not been issued even after three months.,Negative,Administration,2026-02-09
+DEMO-0184,Portions in the canteen are generous.,Positive,Canteen,2026-02-18
+DEMO-0185,The admission process begins in June.,Neutral,Administration,2026-03-28
+DEMO-0186,The fee portal keeps failing and I was charged twice.,Negative,Administration,2026-03-11
+DEMO-0187,Transport services will not operate on holidays.,Neutral,Transport,2026-02-25
+DEMO-0188,The department faculty are knowledgeable and encouraging.,Positive,Faculty,2026-04-01
+DEMO-0189,Air conditioning in the seminar hall works perfectly.,Positive,Infrastructure,2026-03-14
+DEMO-0190,I appreciate how the lecturer gives constructive feedback on our work.,Positive,Faculty,2026-02-16
+DEMO-0191,The lab assistant is never present and we cannot get any help.,Negative,Laboratory,2026-01-08
+DEMO-0192,The library membership card must be shown at the entrance.,Neutral,Library,2026-01-19
+DEMO-0193,A blood donation camp is scheduled for the 20th of this month.,Neutral,Other,2026-02-07
+DEMO-0194,The new token system at the office has reduced waiting time.,Positive,Administration,2026-01-27
+DEMO-0195,The reference section books cannot be taken out of the library.,Neutral,Library,2026-03-20
+DEMO-0196,Meal coupons are sold at the canteen counter.,Neutral,Canteen,2026-02-07
+DEMO-0197,The canteen ran out of food by 1 PM again today.,Negative,Canteen,2026-01-09
+DEMO-0198,There is no bus service on our route in the evening.,Negative,Transport,2026-01-18
+DEMO-0199,There is no transparency in how the hostel rooms are allotted.,Negative,Administration,2026-03-22
+DEMO-0200,The professor teaches too fast and nobody can follow the lessons.,Negative,Faculty,2026-03-01
+DEMO-0201,The college festival committee will hold its first meeting tomorrow.,Neutral,Other,2026-02-18
+DEMO-0202,Great initiative to organise the blood donation camp.,Positive,Other,2026-02-14
+DEMO-0203,Each lab batch has fifteen students.,Neutral,Laboratory,2026-03-01
+DEMO-0204,The classroom projector is not working.,Negative,Infrastructure,2026-03-23
+DEMO-0205,The academic calendar was planned well and deadlines were reasonable.,Positive,Academics,2026-03-11
+DEMO-0206,The shuttle service between the hostel and the campus is very handy.,Positive,Transport,2026-01-19
+DEMO-0207,The elective registration form is available on the department notice board.,Neutral,Academics,2026-02-23
+DEMO-0208,The canteen committee meets on the last Friday of the month.,Neutral,Canteen,2026-03-19
+DEMO-0209,The canteen has seating for about one hundred students.,Neutral,Canteen,2026-01-29
+DEMO-0210,The washrooms on the second floor are dirty and have no water.,Negative,Infrastructure,2026-02-06
+DEMO-0211,The e-journal subscription has expired and we cannot access any papers.,Negative,Library,2026-01-10
+DEMO-0212,Staff behaviour towards students is biased and unfair.,Negative,Faculty,2026-04-05
+DEMO-0213,The placement training programme was very useful.,Positive,Other,2026-03-01
+DEMO-0214,The bus broke down on the way and nobody informed us.,Negative,Transport,2026-01-05
+DEMO-0215,Overdue books are charged at one rupee per day.,Neutral,Library,2026-03-12
+DEMO-0216,The sports ground is in great condition.,Positive,Infrastructure,2026-03-14
+DEMO-0217,The college bus is always on time and the drivers are careful.,Positive,Transport,2026-04-02
+DEMO-0218,"The fume hood in the chemistry lab does not work, which is dangerous.",Negative,Laboratory,2026-03-31
+DEMO-0219,The internet goes down during online exams and we lose our work.,Negative,Internet and Wi-Fi,2026-01-30
+DEMO-0220,I like the new seating arrangement and the comfortable benches in the seminar hall.,Positive,Infrastructure,2026-02-20
+DEMO-0221,The lunch meals are filling and good value for money.,Positive,Canteen,2026-03-01
+DEMO-0222,The office will remain closed on the second Saturday of each month.,Neutral,Administration,2026-01-13
+DEMO-0223,A guest lecturer from industry will visit the department next week.,Neutral,Faculty,2026-03-31
+DEMO-0224,The Wi-Fi password was changed again without informing anyone.,Negative,Internet and Wi-Fi,2026-02-16
+DEMO-0225,The new arrivals section keeps the collection fresh and up to date.,Positive,Library,2026-03-25
+DEMO-0226,Revaluation requests can be made within ten days of result publication.,Neutral,Academics,2026-02-14
+DEMO-0227,The digital library requires a login through the student portal.,Neutral,Library,2026-03-30
+DEMO-0228,I enjoyed the sports day and the friendly atmosphere on campus.,Positive,Other,2026-01-20
+DEMO-0229,The photocopier in the library has not worked for weeks.,Negative,Library,2026-02-12
+DEMO-0230,The ramps and lifts make the building accessible for everyone.,Positive,Infrastructure,2026-03-10
+DEMO-0231,"There are very few copies of the important books, so they are always unavailable.",Negative,Library,2026-02-13
+DEMO-0232,The faculty are not punctual and arrive late for most lectures.,Negative,Faculty,2026-03-31
+DEMO-0233,The computer lab has excellent systems and enough machines for everyone.,Positive,Laboratory,2026-02-26
+DEMO-0234,The lab manuals are clear and the experiments are well planned.,Positive,Laboratory,2026-02-15
+DEMO-0235,A new professor will handle the data structures course this semester.,Neutral,Faculty,2026-02-25
+DEMO-0236,I enjoyed the hands-on sessions in the electronics lab.,Positive,Laboratory,2026-04-04
+DEMO-0237,I can attend online classes without any connection drops now.,Positive,Internet and Wi-Fi,2026-02-11
+DEMO-0238,The library is located on the first floor of the central block.,Neutral,Library,2026-03-16
+DEMO-0239,Lab software is not installed and the systems keep crashing.,Negative,Laboratory,2026-01-21
+DEMO-0240,There is no support for students who want to start clubs.,Negative,Other,2026-01-29
+DEMO-0241,Safety instructions in the laboratory are explained properly before every session.,Positive,Laboratory,2026-02-27
+DEMO-0242,The question paper was far too difficult compared with what was taught.,Negative,Academics,2026-03-31
+DEMO-0243,Internet access is available from 6 AM to midnight in the hostel.,Neutral,Internet and Wi-Fi,2026-02-22
+DEMO-0244,The teacher ignored our requests to repeat the difficult topics.,Negative,Faculty,2026-04-01
+DEMO-0245,The internet is fast enough to stream lecture recordings.,Positive,Internet and Wi-Fi,2026-01-27
+DEMO-0246,The syllabus is outdated and does not match what the industry expects.,Negative,Academics,2026-03-24
+DEMO-0247,The hostel is located about one kilometre from the main building.,Neutral,Infrastructure,2026-03-18
+DEMO-0248,Tea and snacks are available at the counter in the evening.,Neutral,Canteen,2026-02-12
+DEMO-0249,Faculty do not give feedback on assignments even after months.,Negative,Faculty,2026-02-25
+DEMO-0250,A book exhibition is being held in the library this week.,Neutral,Library,2026-03-16
+DEMO-0251,Internal assessment marks will be uploaded on the portal by Friday.,Neutral,Academics,2026-01-05
+DEMO-0252,The course has four modules and one mini project.,Neutral,Academics,2026-02-12
+DEMO-0253,The food in the canteen is tasty and freshly prepared.,Positive,Canteen,2026-02-10
+DEMO-0254,The seats in the bus are torn and the windows will not close.,Negative,Transport,2026-01-31
+DEMO-0255,Notices are put up at the last minute so nobody knows about changes.,Negative,Administration,2026-03-01
+DEMO-0256,The canteen is clean and the tables are well maintained.,Positive,Canteen,2026-03-20
+DEMO-0257,The library has an excellent collection of reference books.,Positive,Library,2026-03-23
+DEMO-0258,The faculty meeting with students is scheduled for Thursday afternoon.,Neutral,Faculty,2026-03-29
+DEMO-0259,The canteen is located behind the administrative block.,Neutral,Canteen,2026-02-15
+DEMO-0260,The auditorium has excellent acoustics and modern equipment.,Positive,Infrastructure,2026-03-05
+DEMO-0261,The Wi-Fi is blocked for most educational websites.,Negative,Internet and Wi-Fi,2026-03-02
+DEMO-0262,The exam portions were not covered in class at all.,Negative,Academics,2026-03-02
+DEMO-0263,Transfer certificate requests are accepted at counter number three.,Neutral,Administration,2026-04-01
+DEMO-0264,"The library is stuffy, with broken fans and not enough seats.",Negative,Library,2026-02-01
+DEMO-0265,The canteen staff are friendly and serve quickly.,Positive,Canteen,2026-03-11
+DEMO-0266,Teachers will take attendance at the start of each class.,Neutral,Faculty,2026-03-06
+DEMO-0267,Lunch is served between twelve thirty and two in the afternoon.,Neutral,Canteen,2026-01-26
+DEMO-0268,A list of upcoming events is available on the notice board.,Neutral,Other,2026-03-30
+DEMO-0269,The counsellor is rarely available and no appointments are given.,Negative,Other,2026-01-15
+DEMO-0270,The reading room is noisy and nobody maintains silence.,Negative,Library,2026-02-10
+DEMO-0271,Most of the computers in the lab are not working properly.,Negative,Laboratory,2026-03-11
+DEMO-0272,The sports ground is open from six in the morning to six in the evening.,Neutral,Infrastructure,2026-03-30
+DEMO-0273,The college events keep students motivated and engaged.,Positive,Other,2026-03-27
+DEMO-0274,The librarian was unhelpful and rude when I asked about a missing book.,Negative,Library,2026-03-25
+DEMO-0275,The cultural fest was poorly organised and started two hours late.,Negative,Other,2026-02-16
+DEMO-0276,The ceiling fans in room 204 are broken and the room is unbearably hot.,Negative,Infrastructure,2026-01-16
+DEMO-0277,The syllabus is up to date and relevant to current industry needs.,Positive,Academics,2026-02-04
+DEMO-0278,The administration ignores student complaints and never replies to emails.,Negative,Administration,2026-04-01
+DEMO-0279,The Wi-Fi login page appears after connecting to the college network.,Neutral,Internet and Wi-Fi,2026-02-13
+DEMO-0280,There are too few kits so six students have to share one set.,Negative,Laboratory,2026-02-02
+DEMO-0281,Getting a Wi-Fi login was quick and simple.,Positive,Internet and Wi-Fi,2026-01-30
+DEMO-0282,Nobody told us about the sports day until the last minute.,Negative,Other,2026-01-23
+DEMO-0283,Lab records must be submitted before the practical exam.,Neutral,Laboratory,2026-01-08
+DEMO-0284,Students must maintain seventy-five percent attendance to appear for exams.,Neutral,Academics,2026-01-10
+DEMO-0285,Bus number five takes the highway route.,Neutral,Transport,2026-02-05
+DEMO-0286,Lab sessions are cancelled often without any replacement.,Negative,Laboratory,2026-03-06
+DEMO-0287,The lab equipment is old and many instruments give wrong readings.,Negative,Laboratory,2026-03-24
+DEMO-0288,The lecturer posted the lecture slides on the learning portal.,Neutral,Faculty,2026-01-14
+DEMO-0289,The timetable for the odd semester has been published.,Neutral,Academics,2026-03-04
+DEMO-0290,Assignment submissions are collected every second Monday.,Neutral,Academics,2026-02-27
+DEMO-0291,The IT team fixed my connection problem within an hour.,Positive,Internet and Wi-Fi,2026-03-26
+DEMO-0292,The class advisor will announce the mentor allocation list.,Neutral,Faculty,2026-03-19
+DEMO-0293,The student clubs offer wonderful opportunities to learn new skills.,Positive,Other,2026-01-29
+DEMO-0294,Classes are often cancelled without any prior notice by the staff.,Negative,Faculty,2026-04-04
+DEMO-0295,The new academic block will be opened next semester.,Neutral,Infrastructure,2026-02-23
+DEMO-0296,The lab is always crowded and we cannot complete the experiments in time.,Negative,Laboratory,2026-03-09
+DEMO-0297,The administrative staff are courteous and well informed.,Positive,Administration,2026-02-25
+DEMO-0298,The office staff are rude and keep sending us from one counter to another.,Negative,Administration,2026-02-05
+DEMO-0299,The syllabus for the third semester includes six theory courses.,Neutral,Academics,2026-01-23
+DEMO-0300,The teaching method is boring and does not encourage participation.,Negative,Faculty,2026-03-29

@@ -1,0 +1,25 @@
+﻿feedback_id,feedback_text,created_at,predicted_sentiment,predicted_category,predicted_priority,sentiment_confidence,category_confidence,classification_timestamp,classification_status
+SAMPLE-001,The mathematics lectures this term were clear and well paced.,2026-03-02,Positive,Academics,Low,0.7838,0.3996,2026-10-14T04:39:11+00:00,ok
+SAMPLE-002,The projector in seminar hall B has not worked for two weeks.,2026-03-02,Negative,Infrastructure,Medium,0.7253,0.239,2026-10-14T04:39:11+00:00,ok
+SAMPLE-003,The canteen is open from 8 AM to 5 PM on weekdays.,2026-03-03,Neutral,Canteen,Low,0.9109,0.714,2026-10-14T04:39:11+00:00,ok
+SAMPLE-004,Wi-Fi in the girls' hostel keeps dropping every evening and nobody has fixed it.,2026-03-03,Negative,Internet and Wi-Fi,Medium,0.5503,0.386,2026-10-14T04:39:11+00:00,ok
+SAMPLE-005,The librarian helped me find three journal papers in ten minutes. Thank you!,2026-03-04,Positive,Library,Low,0.4247,0.2037,2026-10-14T04:39:11+00:00,ok
+SAMPLE-006,The staircase near the lab is slippery and someone could get injured. Please fix this urgently.,2026-03-04,Negative,Laboratory,High,0.6293,0.5706,2026-10-14T04:39:11+00:00,ok
+SAMPLE-007,The bus to the north route arrives 40 minutes late almost every day.,2026-03-05,Neutral,Transport,Medium,0.5138,0.6569,2026-10-14T04:39:11+00:00,ok
+SAMPLE-008,The fee payment portal accepted my payment without any trouble.,2026-03-05,Negative,Administration,Medium,0.4052,0.6531,2026-10-14T04:39:11+00:00,ok
+SAMPLE-009,,2026-03-06,,,,,,,skipped: Feedback is empty.
+SAMPLE-010,Good teaching but the classrooms are far too hot to concentrate.,2026-03-06,Negative,Infrastructure,Medium,0.6708,0.1862,2026-10-14T04:39:11+00:00,ok
+SAMPLE-011,Great. Another cancelled class. Exactly what I wanted.,2026-03-09,Positive,Faculty,Low,0.6425,0.189,2026-10-14T04:39:11+00:00,ok
+SAMPLE-012,The placement talk is scheduled for Friday at 2 PM in the auditorium.,2026-03-09,Neutral,Other,Low,0.8047,0.4023,2026-10-14T04:39:11+00:00,ok
+SAMPLE-013,The oscilloscopes in the electronics lab give wrong readings and there are too few kits.,2026-03-10,Negative,Laboratory,Medium,0.857,0.6574,2026-10-14T04:39:11+00:00,ok
+SAMPLE-014,Internet speed in the library is excellent during exam week.,2026-03-10,Positive,Internet and Wi-Fi,Low,0.6709,0.4121,2026-10-14T04:39:11+00:00,ok
+SAMPLE-015,The question paper had topics that were never taught in class.,2026-03-11,Negative,Academics,Medium,0.6172,0.4249,2026-10-14T04:39:11+00:00,ok
+SAMPLE-016,Hostel mess food made several of us sick last night.,2026-03-11,Negative,Academics,High,0.4099,0.1506,2026-10-14T04:39:11+00:00,ok
+SAMPLE-017,Our mentor answers every doubt patiently and gives useful project feedback.,2026-03-12,Positive,Faculty,Low,0.7353,0.4916,2026-10-14T04:39:11+00:00,ok
+SAMPLE-018,The washrooms on the first floor are dirty again and there is no water.,2026-03-12,Negative,Infrastructure,High,0.95,0.4905,2026-10-14T04:39:11+00:00,ok
+SAMPLE-019,"The scholarship office was helpful, but the queue took two hours.",2026-03-13,Negative,Administration,Medium,0.3821,0.5027,2026-10-14T04:39:11+00:00,ok
+SAMPLE-020,The syllabus has four modules and one mini project.,2026-03-13,Positive,Academics,Low,0.468,0.3545,2026-10-14T04:39:11+00:00,ok
+SAMPLE-021,wifi vegam kuravanu in the classrooms and the lab systems are also slow,2026-03-16,Negative,Laboratory,Medium,0.6796,0.5026,2026-10-14T04:39:11+00:00,ok
+SAMPLE-022,!!!,2026-03-16,,,,,,,skipped: Feedback contains no letters or digits.
+SAMPLE-023,The sports day was well organised and everyone enjoyed it.,2026-03-17,Positive,Other,Low,0.8209,0.4638,2026-10-14T04:39:11+00:00,ok
+SAMPLE-024,Library timings should be extended; it shuts too early before exams.,2026-03-17,Negative,Transport,Medium,0.4345,0.1751,2026-10-14T04:39:11+00:00,ok

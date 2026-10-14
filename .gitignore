@@ -1,0 +1,26 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Trained models are generated locally (python -m src.train); keep the folder only
+models/*
+!models/.gitkeep
+
+# Uploaded / private data must never be committed (the demo + sample CSVs are explicitly kept)
+data/*
+!data/demo_feedback.csv
+*.local.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.streamlit/secrets.toml
